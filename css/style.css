@@ -7,3 +7,18 @@
     height: 60px;
     background-color: brown;
 }
+
+
+
+/* debug */
+
+.debug #jumbotron{
+    background-color: indigo;
+    height: 500px;
+
+}
+.debug .box {
+    height: 90px;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
